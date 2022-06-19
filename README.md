@@ -4,12 +4,8 @@
 
 *User Experience Designer (UX)* : การออกแบบ ความรู้สึก ของผู้ใช้ โดยเน้นที่การทำให้ผู้ใช้งานเกิดความรู้สึกอย่างที่ผลิตภัณฑ์อยากให้เกิด เน้น Contain </br>
   เครื่องมือ ต่างๆ จำเป็นต้องสร้าง User Flow , Wireframe , Prototype (ต้นแบบงาน) ให้ผู้ใช้ทดลอง Testing </br>
-  
   เริ่มจากศึกษา Desing Thinkong , กระบวนการ Lean (Lean Startup Lean UX) , Service Design , Sprint Design เป็นต้น </br>
-  
-   User Flow , Wireframe ,  Prototype
-  
-  ฝึก Workshop เยอะๆ </br>
+   User Flow , Wireframe ,  Prototype ฝึก Workshop เยอะๆ </br>
 
 *User Interface Designer (UI)* : การออกแบบภาพ Interface ของผลิตภัณฑ์ กระบวนการสร้างอินเทอร์เฟซ เน้นที่รูปลักษณ์ สไตล์ และการโต้ตอบ </br>
   นักออกแบบ UI จะออกแบบการเคลื่อนไหวระหว่างหน้าจอต่าง ๆ สร้างองค์ประกอบภาพ และการทำ Prototype แบบจำลองที่อำนวยความสะดวกในการโต้ตอบกับผู้ใช้งาน  </br>
