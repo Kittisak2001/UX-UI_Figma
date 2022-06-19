@@ -56,3 +56,11 @@ Form Text Area: Input ที่รับเป็น Paragraphs หรือ ข
 ![DropDown](https://user-images.githubusercontent.com/100192085/174498185-4e4c4324-0ed4-454e-9c01-8a2ba02d3350.jpg)
 
 Form Dropdown:คล้ายInput Box แต่มี ลูกศรลงด้านขวา เพื่อแสดงถึงรายการให้เลือก
+
+![Checkbox](https://user-images.githubusercontent.com/100192085/174498227-1664bdf7-2600-4375-8dbd-564992068a18.jpg)
+
+Form Checkbox:เป็นสี่เหลี่ยม กล่องเล็กๆ สามารถเลือกได้หลายตัว Active ได้อิสละ
+
+![RadioBotton](https://user-images.githubusercontent.com/100192085/174498279-ff18087a-e970-47ce-8625-28475ac9d41e.jpg)
+
+Form Radio Button:คล้าย Form Checkbox / สัญลักษณ์:Active เป็น วงกลมที่สำคัญ สามารถ Active ได้เพียง แค่ ตัวเดียว
