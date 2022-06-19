@@ -15,6 +15,8 @@
 
 20/06/2022 </br>
 
+![wireframing](https://user-images.githubusercontent.com/100192085/174498962-b9aa5f22-c0ef-401e-997d-0d685a015d37.png)
+
 *Wire Frame* : แบบร่างโครงสร้างของหน้าเว็บเพจ เพื่อเห็นถึง Layout และส่วนประกอบต่าง ๆ เป็นขั้นตอนสำคัญก่อนที่จะไปออกแบบ User Interface (UI)
 
 ![Title](https://user-images.githubusercontent.com/100192085/174497614-69f2f150-2aac-4386-b5d1-cc6721c46da1.jpg)
@@ -22,3 +24,11 @@
 Title:หัวข้อ / สัญลักษณ์:เส้นยึกๆ ตรง หนา  
 Subtitle:หัวข้อย่อย / สัญลักษณ์ : เส้นยึกๆ ตรง หนา
 Paragraph:ข้อความ / สัญลักษณ์ : มีความจาง น้ำหนัก น้อยกว่า Tile, Subtitle
+
+![Image](https://user-images.githubusercontent.com/100192085/174497901-8e668b46-419d-4ed3-84f8-0be97f8ae864.jpg)
+
+Image:รูปภาพ / สัญลักษณ์:สี่เหลี่ยม กาบาท ข้างใน จตุรัส, ผืนผ้าก็ได้ หรือ จะเป็นรูปที่สื่อถึงสิ่งนั้นๆ ก็ได้
+
+![Image Slider](https://user-images.githubusercontent.com/100192085/174497926-6eddd95c-87d9-45b6-aa24-93f71c1cb35d.jpg)
+
+Image Slider:รูปภาพที่สามารถกดได้ เลื่อนได้ / สัญลักษณ์ฺ:รูปภาพ สี่เหลี่ยมมีกาบาทด้านใน พร้อมลูกศีด้าน ซ้าย, ขวา และ Paging ที่ไว้ดูจำนวนรูปที่สามารถ Slide ได้
