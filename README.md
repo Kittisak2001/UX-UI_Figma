@@ -91,8 +91,13 @@ Paging Button:ใช้แสดงสถานะ current อยู่ในส
 
 *Test Wireframe | moqups.com
 
+Home Page
+
 ![moqups](https://user-images.githubusercontent.com/100192085/174500092-1d79b951-3a3e-4df6-b505-e5dce1851d46.jpg)
 
+Sign Up
+
+![SignUp](https://user-images.githubusercontent.com/100192085/174500333-d754ecfb-cda1-4264-bf5c-c40ccd0ee28c.jpg)
 
 
 _______________________________________________________________________________________________________________________________________________________________________
