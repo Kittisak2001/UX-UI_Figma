@@ -1,4 +1,4 @@
-# Figma-UX_UI
+# UX-UI_Figma
 
 19/06/2022 </br>
 
