@@ -127,4 +127,8 @@ https://user-images.githubusercontent.com/100192085/174684179-90218d2d-c61a-411d
 
 - Credit Uncle Ake : https://www.youtube.com/watch?v=kHhSxSFP2C0&ab_channel=UncleAke
 
+*One Page Web design*
+
+ - Credit Uncle Ake : https://www.youtube.com/watch?v=gG-Xy94vfiA&ab_channel=UncleAke
+
 _______________________________________________________________________________________________________________________________________________________________________
