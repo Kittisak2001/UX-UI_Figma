@@ -167,8 +167,9 @@ https://user-images.githubusercontent.com/100192085/174904407-93c723f0-eeb4-4927
 
 - Credit Patiphan Phengpao: https://www.youtube.com/watch?v=cNKy4IAIppI&t=41s&ab_channel=PatiphanPhengpao
 
-  
+*Preview Figma*
 
+https://user-images.githubusercontent.com/100192085/174909754-099d44b6-5aa9-4ea9-be2d-bab6dc0c4829.mp4
 
 - Credit BorntoDev : https://www.youtube.com/watch?v=EIUUXaQL4FI&ab_channel=BorntoDev
 
