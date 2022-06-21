@@ -151,7 +151,10 @@ Preview Not Standard
 
 https://user-images.githubusercontent.com/100192085/174845936-e182f634-3d6e-4f60-9a3c-b36f5fb57179.mp4
 
-- Credit Uncle Ake : https://www.youtube.com/watch?v=hahoNoZOV7I&t=132s&ab_channel=UncleAke
+Standard
 
+https://user-images.githubusercontent.com/100192085/174896022-2f52ec69-8294-4d2d-9e96-108179163bfc.mp4
+
+- Credit Uncle Ake : https://www.youtube.com/watch?v=hahoNoZOV7I&t=132s&ab_channel=UncleAke
 
 ______________________________________________________________________________________________________________________________________________________________________
