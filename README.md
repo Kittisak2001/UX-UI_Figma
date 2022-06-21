@@ -139,8 +139,9 @@ https://user-images.githubusercontent.com/100192085/174821716-fb0b28d8-d76b-437a
 
 - Credit Uncle Ake : https://www.youtube.com/watch?v=J2z4PXjq9kA&ab_channel=UncleAke
 
-*Dark mode, Font Format, Auto layout, Spring Animation*
+*Spring Animation*
 
+https://user-images.githubusercontent.com/100192085/174831917-6b453590-e136-4a3c-bc55-0a5792d51b5a.mp4
 
 - Credit Uncle Ake : https://www.youtube.com/watch?v=UOa9kh6EIuw&ab_channel=UncleAke
 ______________________________________________________________________________________________________________________________________________________________________
