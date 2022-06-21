@@ -161,6 +161,12 @@ ________________________________________________________________________________
 
 22/02/2565
 
+*Web Design 101*
+
+https://user-images.githubusercontent.com/100192085/174904407-93c723f0-eeb4-4927-b9b6-b3d9fdfb0a09.mp4
+
+
+
 
 - Credit Patiphan Phengpao: https://www.youtube.com/watch?v=cNKy4IAIppI&t=41s&ab_channel=PatiphanPhengpao
 
