@@ -214,6 +214,9 @@ ________________________________________________________________________________
 
 ![008](https://user-images.githubusercontent.com/100192085/175144042-4552b32f-44e1-4b8f-87b5-b51a5cef4790.jpg)
 
+*Formatting Principles In Figma*
+
+![009](https://user-images.githubusercontent.com/100192085/175161846-131e2fa0-fcf8-4ae2-8b20-31dc8e0525d1.jpg)
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
