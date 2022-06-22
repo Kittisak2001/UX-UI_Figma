@@ -218,6 +218,10 @@ ________________________________________________________________________________
 
 ![009](https://user-images.githubusercontent.com/100192085/175161846-131e2fa0-fcf8-4ae2-8b20-31dc8e0525d1.jpg)
 
+*Figma Constraints And Resizing*
+
+![0010](https://user-images.githubusercontent.com/100192085/175167327-c623e466-1e0c-4563-b894-57f68ee210c6.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
 
