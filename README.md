@@ -186,5 +186,8 @@ ________________________________________________________________________________
 
 ![001](https://user-images.githubusercontent.com/100192085/175126670-6ee85e4a-fb6f-4c42-991d-8376b603c231.jpg)
 
+*Introduction To Typography In Figma*
+
+![002](https://user-images.githubusercontent.com/100192085/175129462-c0d9afdb-bb47-4484-b9ba-0776bbbbd72a.jpg)
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
