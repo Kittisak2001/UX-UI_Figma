@@ -210,6 +210,10 @@ ________________________________________________________________________________
 
 ![007](https://user-images.githubusercontent.com/100192085/175141603-96097b4b-b673-4573-9f9f-c6dd32a23c74.jpg)
 
+*Figma AutoLayout*
+
+![008](https://user-images.githubusercontent.com/100192085/175144042-4552b32f-44e1-4b8f-87b5-b51a5cef4790.jpg)
+
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
