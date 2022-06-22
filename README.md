@@ -194,6 +194,10 @@ ________________________________________________________________________________
 
 ![003](https://user-images.githubusercontent.com/100192085/175131491-147ce0bf-bbee-4d82-b762-08b66e951a30.jpg)
 
+*First Design Task*
+
+![004](https://user-images.githubusercontent.com/100192085/175132564-8f631b56-066e-4cac-a744-9894a4f017ea.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
 
