@@ -190,4 +190,13 @@ ________________________________________________________________________________
 
 ![002](https://user-images.githubusercontent.com/100192085/175129462-c0d9afdb-bb47-4484-b9ba-0776bbbbd72a.jpg)
 
+*Design Tree in Figma*
+
+![003](https://user-images.githubusercontent.com/100192085/175131491-147ce0bf-bbee-4d82-b762-08b66e951a30.jpg)
+
+
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
+
+
+
+
