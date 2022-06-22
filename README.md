@@ -206,6 +206,10 @@ ________________________________________________________________________________
 
 ![006](https://user-images.githubusercontent.com/100192085/175140157-88022ac1-d65b-4702-b00f-691e5b430724.jpg)
 
+*Margin And Padding In UX UI Design*
+
+![007](https://user-images.githubusercontent.com/100192085/175141603-96097b4b-b673-4573-9f9f-c6dd32a23c74.jpg)
+
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
