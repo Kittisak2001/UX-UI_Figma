@@ -198,6 +198,12 @@ ________________________________________________________________________________
 
 ![004](https://user-images.githubusercontent.com/100192085/175132564-8f631b56-066e-4cac-a744-9894a4f017ea.jpg)
 
+*Colors In Figma*
+
+![005](https://user-images.githubusercontent.com/100192085/175138436-53cffdb3-583c-4350-9796-92aa864dbe0c.jpg)
+
+
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
 
