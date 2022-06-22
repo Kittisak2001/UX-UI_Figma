@@ -182,4 +182,9 @@ ________________________________________________________________________________
 
 23/02/2565
 
+*Editing Shapes in Figma*
+
+![001](https://user-images.githubusercontent.com/100192085/175126670-6ee85e4a-fb6f-4c42-991d-8376b603c231.jpg)
+
+
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
