@@ -248,9 +248,9 @@ ________________________________________________________________________________
 
 ![015](https://user-images.githubusercontent.com/100192085/175405999-613f4deb-1983-4ca8-8a27-1d8561020343.jpg)
 
+*Grid Styles*
 
-
-
+![016](https://user-images.githubusercontent.com/100192085/175406239-a868a8a5-27bc-492d-a136-31cc6444fef9.jpg)
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:28:24}
