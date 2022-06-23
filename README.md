@@ -244,6 +244,13 @@ ________________________________________________________________________________
 
 24/06/2565
 
+*Shadow Styles*
+
+![015](https://user-images.githubusercontent.com/100192085/175405999-613f4deb-1983-4ca8-8a27-1d8561020343.jpg)
+
+
+
+
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:28:24}
