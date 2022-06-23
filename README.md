@@ -252,6 +252,10 @@ ________________________________________________________________________________
 
 ![016](https://user-images.githubusercontent.com/100192085/175406239-a868a8a5-27bc-492d-a136-31cc6444fef9.jpg)
 
+*Color Styles*
+
+![017](https://user-images.githubusercontent.com/100192085/175408335-383498c3-a49a-40f2-85e7-13d7c30a54ed.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:28:24}
 
