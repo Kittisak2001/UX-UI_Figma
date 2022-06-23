@@ -272,6 +272,11 @@ ________________________________________________________________________________
 
 ![021](https://user-images.githubusercontent.com/100192085/175430743-7ab32e7b-96eb-4f0c-aff2-edc05b963599.jpg)
 
+*Card*
+
+![022](https://user-images.githubusercontent.com/100192085/175432249-1acc12c9-c2d2-4ce7-8388-686e5a8a6e95.jpg)
+
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:28:24}
 
