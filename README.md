@@ -222,6 +222,10 @@ ________________________________________________________________________________
 
 ![0010](https://user-images.githubusercontent.com/100192085/175167327-c623e466-1e0c-4563-b894-57f68ee210c6.jpg)
 
+*Introduction to Styles and components*
+
+![011](https://user-images.githubusercontent.com/100192085/175343319-3a7fc9df-798f-4bae-a753-97016d395e22.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
 
