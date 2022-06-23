@@ -260,6 +260,10 @@ ________________________________________________________________________________
 
 ![018](https://user-images.githubusercontent.com/100192085/175426869-e5ef2251-63a7-4e0d-93ee-9514355a9530.jpg)
 
+*Common Button*
+
+![019](https://user-images.githubusercontent.com/100192085/175428422-a2479342-e5e4-476e-a55c-36f61269f40e.jpg)
+
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:28:24}
