@@ -256,6 +256,11 @@ ________________________________________________________________________________
 
 ![017](https://user-images.githubusercontent.com/100192085/175408335-383498c3-a49a-40f2-85e7-13d7c30a54ed.jpg)
 
+*Text Styles*
+
+![018](https://user-images.githubusercontent.com/100192085/175426869-e5ef2251-63a7-4e0d-93ee-9514355a9530.jpg)
+
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:28:24}
 
