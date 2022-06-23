@@ -230,6 +230,11 @@ ________________________________________________________________________________
 
 ![012](https://user-images.githubusercontent.com/100192085/175345894-34878c6e-9674-4265-8e4b-b196a58e5e7b.jpg)
 
+*Layout Design & Configuration For Website in Figma*
+
+![013](https://user-images.githubusercontent.com/100192085/175346711-f9926f54-1deb-4633-8129-d25c59a5dcd3.jpg)
+
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
 
