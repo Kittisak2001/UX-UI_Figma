@@ -268,6 +268,10 @@ ________________________________________________________________________________
 
 ![020](https://user-images.githubusercontent.com/100192085/175430261-c3cf7706-8858-47b3-9fde-99ef1c615221.jpg)
 
+*Extended FAB*
+
+![021](https://user-images.githubusercontent.com/100192085/175430743-7ab32e7b-96eb-4f0c-aff2-edc05b963599.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:28:24}
 
