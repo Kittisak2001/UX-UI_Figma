@@ -234,6 +234,9 @@ ________________________________________________________________________________
 
 ![013](https://user-images.githubusercontent.com/100192085/175346711-f9926f54-1deb-4633-8129-d25c59a5dcd3.jpg)
 
+*Layout Grids In Figma*
+
+![014](https://user-images.githubusercontent.com/100192085/175349585-76ceb719-4b06-4104-9bc2-b12166e0dc2e.jpg)
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
