@@ -226,6 +226,10 @@ ________________________________________________________________________________
 
 ![011](https://user-images.githubusercontent.com/100192085/175343319-3a7fc9df-798f-4bae-a753-97016d395e22.jpg)
 
+*Figma Component Variants*
+
+![012](https://user-images.githubusercontent.com/100192085/175345894-34878c6e-9674-4265-8e4b-b196a58e5e7b.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org
 
