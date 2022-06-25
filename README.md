@@ -292,6 +292,9 @@ ________________________________________________________________________________
 
 ![024](https://user-images.githubusercontent.com/100192085/175779783-5c584f54-0e5b-41eb-90d5-6d4778e81bd5.jpg)
 
+> Tail 
+
+![025](https://user-images.githubusercontent.com/100192085/175779826-a0c059c0-5ff8-41d1-b4e1-328ab7ab0a15.jpg)
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {6:08:00 - 10:16:51}
