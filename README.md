@@ -300,5 +300,10 @@ ________________________________________________________________________________
 
 ![026](https://user-images.githubusercontent.com/100192085/175783882-263a314b-0bb8-43d8-adb8-17e11a1691d6.jpg)
 
+> Preview Tailwind UI Design Project
+
+![027](https://user-images.githubusercontent.com/100192085/175783921-7c15e73d-aec2-4f6d-9d03-b128e47e5481.jpg)
+
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {6:08:00 - 10:16:51}
