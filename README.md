@@ -290,7 +290,7 @@ ________________________________________________________________________________
 
 > Intro
 
-![023](https://user-images.githubusercontent.com/100192085/175779743-ae5d2475-5e9b-4479-98a5-e3c2c04a7150.jpg)
+![024](https://user-images.githubusercontent.com/100192085/175779783-5c584f54-0e5b-41eb-90d5-6d4778e81bd5.jpg)
 
 
 
