@@ -326,7 +326,7 @@ ________________________________________________________________________________
 
 > Preview On Macbook Pro 14"
 
-https://user-images.githubusercontent.com/100192085/175798959-00848f7f-0c2a-4077-a71d-e69b17352f12.mp4
+https://user-images.githubusercontent.com/100192085/175799724-d4ba1e0d-ec0d-4868-84d3-0289c98833da.mp4
 
 > Preview On iPad Pro 12.9"
 
