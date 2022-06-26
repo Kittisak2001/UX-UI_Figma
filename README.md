@@ -324,6 +324,10 @@ ________________________________________________________________________________
 
 ![030](https://user-images.githubusercontent.com/100192085/175798866-0bd3b7e5-789e-425c-921a-2d1b927b91b0.jpg)
 
+> Preview On Macbook Pro 14"
+
+https://user-images.githubusercontent.com/100192085/175798959-00848f7f-0c2a-4077-a71d-e69b17352f12.mp4
+
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {7:25:45 - 10:16:51}
