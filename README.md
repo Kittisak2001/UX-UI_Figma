@@ -332,6 +332,10 @@ https://user-images.githubusercontent.com/100192085/175799724-d4ba1e0d-ec0d-4868
 
 https://user-images.githubusercontent.com/100192085/175799679-3a6e0fb8-9b1f-4a8b-99a6-7d9dd83f1eb7.mp4
 
+> Preview iPhone 13 Pro Max
+
+https://user-images.githubusercontent.com/100192085/175800209-bd977808-1c55-4346-a928-34e598256b12.mp4
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {7:25:45 - 10:16:51}
 
