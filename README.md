@@ -316,6 +316,9 @@ ________________________________________________________________________________
 
 ![028](https://user-images.githubusercontent.com/100192085/175787021-6be09f8f-946f-49f7-8067-e744428b132c.jpg)
 
+> Do Up 
+
+![029](https://user-images.githubusercontent.com/100192085/175794570-b00c220b-edd5-4c94-8d6a-59141d1f5e65.jpg)
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {7:25:45 - 10:16:51}
