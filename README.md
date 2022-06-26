@@ -328,7 +328,9 @@ ________________________________________________________________________________
 
 https://user-images.githubusercontent.com/100192085/175798959-00848f7f-0c2a-4077-a71d-e69b17352f12.mp4
 
+> Preview On iPad Pro 12.9"
 
+https://user-images.githubusercontent.com/100192085/175799579-3ec8afb3-852f-48a7-a5fe-6ac8762d993e.mp4
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {7:25:45 - 10:16:51}
 
