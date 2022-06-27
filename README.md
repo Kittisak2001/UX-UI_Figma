@@ -238,7 +238,7 @@ ________________________________________________________________________________
 
 ![014](https://user-images.githubusercontent.com/100192085/175349585-76ceb719-4b06-4104-9bc2-b12166e0dc2e.jpg)
 
-- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {0:00:00 - 4:07:32}
+- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {00:00:00 - 04:07:32}
 
 ______________________________________________________________________________________________________________________________________________________________________
 
@@ -276,7 +276,7 @@ ________________________________________________________________________________
 
 ![022](https://user-images.githubusercontent.com/100192085/175432249-1acc12c9-c2d2-4ce7-8388-686e5a8a6e95.jpg)
 
-- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {4:07:32 - 6:08:00}
+- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {04:07:32 - 06:08:00}
 
 ______________________________________________________________________________________________________________________________________________________________________
 
@@ -304,7 +304,7 @@ ________________________________________________________________________________
 
 ![027](https://user-images.githubusercontent.com/100192085/175783921-7c15e73d-aec2-4f6d-9d03-b128e47e5481.jpg)
 
-- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {6:08:00 - 7:25:45}
+- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {06:08:00 - 07:25:45}
 
 ______________________________________________________________________________________________________________________________________________________________________
 
@@ -337,5 +337,5 @@ https://user-images.githubusercontent.com/100192085/175799679-3a6e0fb8-9b1f-4a8b
 https://user-images.githubusercontent.com/100192085/175800209-bd977808-1c55-4346-a928-34e598256b12.mp4
 
 
-- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {7:25:45 - 10:16:51}
+- Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {07:25:45 - 08:45:54}
 
