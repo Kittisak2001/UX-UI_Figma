@@ -347,6 +347,10 @@ ________________________________________________________________________________
 
 ![031](https://user-images.githubusercontent.com/100192085/175967854-d4241c67-ac49-438d-aa09-823a0c84056b.jpg)
 
+*Iconography In Figma*
+
+![032](https://user-images.githubusercontent.com/100192085/175969690-7a2d68e1-1ab6-488b-a2f9-e0c1017e7464.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {08:45:54 - 10:16:51}
 
