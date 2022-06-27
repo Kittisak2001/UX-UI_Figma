@@ -355,6 +355,12 @@ ________________________________________________________________________________
 
 ![033](https://user-images.githubusercontent.com/100192085/175971381-47f4e37b-2ce5-4dda-90ee-9fc87ff99d48.jpg)
 
+*Figma Tokens*
+
+![034](https://user-images.githubusercontent.com/100192085/175974082-5d1cee16-94d0-4e46-b13e-70977de4b165.jpg)
+
+
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {08:45:54 - 10:16:51}
 
