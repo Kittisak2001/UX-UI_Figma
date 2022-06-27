@@ -351,6 +351,10 @@ ________________________________________________________________________________
 
 ![032](https://user-images.githubusercontent.com/100192085/175969690-7a2d68e1-1ab6-488b-a2f9-e0c1017e7464.jpg)
 
+*Boolean Groups*
+
+![033](https://user-images.githubusercontent.com/100192085/175971381-47f4e37b-2ce5-4dda-90ee-9fc87ff99d48.jpg)
+
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {08:45:54 - 10:16:51}
 
