@@ -359,6 +359,10 @@ ________________________________________________________________________________
 
 ![034](https://user-images.githubusercontent.com/100192085/175974082-5d1cee16-94d0-4e46-b13e-70977de4b165.jpg)
 
+*Animation In Figma With Figmotion*
+
+https://user-images.githubusercontent.com/100192085/175978875-d5355a52-eda0-4370-af7a-1124f284bce1.mp4
+
 
 
 
