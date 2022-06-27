@@ -343,6 +343,9 @@ ________________________________________________________________________________
 
 27/06/2565
 
+*Designing Mobile App*
+
+![031](https://user-images.githubusercontent.com/100192085/175967854-d4241c67-ac49-438d-aa09-823a0c84056b.jpg)
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=jwCmIBJ8Jtc&t=125s&ab_channel=freeCodeCamp.org {08:45:54 - 10:16:51}
