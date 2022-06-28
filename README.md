@@ -388,6 +388,10 @@ ________________________________________________________________________________
 
 ![HomePagge](https://user-images.githubusercontent.com/100192085/176184496-abc9db08-a518-4662-aea7-216a53a93e4e.jpg)
 
+> Feature Page
+
+![FeaturePagge](https://user-images.githubusercontent.com/100192085/176184738-0c76f967-7b37-4d70-be03-5aeeef7632b5.jpg)
+
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=c9Wg6Cb_YlU&ab_channel=freeCodeCamp.org
