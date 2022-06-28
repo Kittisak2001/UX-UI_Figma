@@ -378,6 +378,7 @@ ________________________________________________________________________________
 
 28/06/2565
 
+*UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma*
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=c9Wg6Cb_YlU&ab_channel=freeCodeCamp.org
 
