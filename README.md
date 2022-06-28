@@ -410,7 +410,17 @@ ________________________________________________________________________________
 
 *UI Layout*
 
-https://user-images.githubusercontent.com/100192085/176245766-f298cce8-eb80-4b93-b371-99a4a7b19885.mp4
+![Teeeeee](https://user-images.githubusercontent.com/100192085/176252131-55396388-5ffe-4dbb-92c2-e62a50eb26f8.jpg)
+
+*Mockup*
+
+
+
+> Desktop 
+
+https://user-images.githubusercontent.com/100192085/176252001-4f941faf-e46d-4a88-b0bc-aeba0ce97311.mp4
+
+
 
 
 
