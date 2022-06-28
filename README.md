@@ -378,7 +378,9 @@ ________________________________________________________________________________
 
 28/06/2565
 
-*UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma*
+# UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma
+
+*Wireframing*
 
 > Sitemap
 
@@ -403,6 +405,12 @@ ________________________________________________________________________________
 > Overview
 
 ![Overview](https://user-images.githubusercontent.com/100192085/176185697-23a96c89-34d8-4c21-af80-712c06b418b1.jpg)
+
+*UI Layout*
+
+https://user-images.githubusercontent.com/100192085/176245766-f298cce8-eb80-4b93-b371-99a4a7b19885.mp4
+
+
 
 
 
