@@ -384,6 +384,10 @@ ________________________________________________________________________________
 
 ![Site Map](https://user-images.githubusercontent.com/100192085/176184162-4dfe419f-b152-4e0b-905c-c33f5c4ac745.jpg)
 
+> Home Page
+
+![HomePagge](https://user-images.githubusercontent.com/100192085/176184496-abc9db08-a518-4662-aea7-216a53a93e4e.jpg)
+
 
 
 - Credit freeCodeCamp.org : https://www.youtube.com/watch?v=c9Wg6Cb_YlU&ab_channel=freeCodeCamp.org
