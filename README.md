@@ -447,3 +447,9 @@ ________________________________________________________________________________
 https://user-images.githubusercontent.com/100192085/176560485-6050f9d2-45a8-4bdb-af43-5f1bf5ddf4d9.mp4
 
 - Credit AJ Jay Kaenampornpan : https://www.youtube.com/watch?v=rU0V6Oeq3Mc&ab_channel=AJJayKaenampornpan
+
+# Figma Tutorial for Mobile Design (2020) #
+
+
+
+- Credit CodeWithChris : https://www.youtube.com/watch?v=R5KoTZY0esk&ab_channel=CodeWithChris
