@@ -430,5 +430,6 @@ https://user-images.githubusercontent.com/100192085/176256021-b20cf5c3-09ed-4bcb
 ______________________________________________________________________________________________________________________________________________________________________
 
 29/06/2565
+# Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2022)
 
 - Credit AJ&Smart : https://www.youtube.com/watch?v=FTFaQWZBqQ8&t=8s&ab_channel=AJ%26Smart
