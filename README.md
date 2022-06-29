@@ -442,5 +442,7 @@ ________________________________________________________________________________
 
 30/06/2565
 
+# ออกแบบหน้าแอปหรือเวปง่ายๆ ด้วย plugin และ ไฟล์ใน Figma - UX UI Layout Design with Figma #
+
 
 - Credit AJ Jay Kaenampornpan : https://www.youtube.com/watch?v=rU0V6Oeq3Mc&ab_channel=AJJayKaenampornpan
