@@ -460,8 +460,11 @@ ________________________________________________________________________________
 
 # UI Design a Dark Mode NFT app in Figma from scratch #
 
+> Part 1
+
 ![Screenshot 2022-07-01 060603](https://user-images.githubusercontent.com/100192085/176792875-bc06eea7-e570-4544-a412-31e2915c5f2f.jpg)
 
+![Screenshot 2022-07-01 060901](https://user-images.githubusercontent.com/100192085/176793126-e4c4919e-21d9-49ec-a5da-f82874bd98b0.jpg)
 
 
 - Credit DesignCode : https://www.youtube.com/watch?v=DoA_D6tmo6o&t=104s&ab_channel=DesignCode
