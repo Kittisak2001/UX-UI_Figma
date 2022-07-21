@@ -498,3 +498,5 @@ https://user-images.githubusercontent.com/100192085/180198118-f985c8cd-1808-41d3
 - Credit Building Amazing Things : https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings
 
 # E-Commerce Mobile App Design in Figma | Figma Design and Prototype Tutorial
+
+- Credit UX World : https://www.youtube.com/watch?v=KCHwo3_Rn3g&ab_channel=UXWorld
