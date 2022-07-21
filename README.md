@@ -485,11 +485,10 @@ https://user-images.githubusercontent.com/100192085/176989170-047cdd94-b6fb-4861
 
 - Credit DesignCode : https://www.youtube.com/watch?v=eDmhQtbRDN8&t=421s&ab_channel=DesignCode
 
-# Figma Mobile App Design Tutorial
-
-- Credit Building Amazing Things : https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings
-
 ______________________________________________________________________________________________________________________________________________________________________
 
 21/07/2565
 
+# Figma Mobile App Design Tutorial
+
+- Credit Building Amazing Things : https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings
