@@ -491,4 +491,6 @@ ________________________________________________________________________________
 
 # Figma Mobile App Design Tutorial
 
+![Screenshot 2022-07-21 174927](https://user-images.githubusercontent.com/100192085/180197964-3134a55e-6270-47ff-aee5-c4a491ca574a.jpg)
+
 - Credit Building Amazing Things : https://www.youtube.com/watch?v=PeGfX7W1mJk&ab_channel=BuildingAmazingThings
