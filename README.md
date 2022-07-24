@@ -523,6 +523,7 @@ ________________________________________________________________________________
 
 # E-commerce App Design in figma - Wireframe/UI/UX Design Tutorial
 
+![Screenshot 2022-07-24 212711](https://user-images.githubusercontent.com/100192085/180651647-775fb77a-e6bb-4963-b224-41e6bb3cd8c8.jpg)
 
 
 
