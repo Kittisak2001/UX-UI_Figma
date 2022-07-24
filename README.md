@@ -516,3 +516,13 @@ ________________________________________________________________________________
 https://user-images.githubusercontent.com/100192085/180611116-7866ed06-f900-4409-bfa7-fd10d8978b2f.mp4
 
 - Credit Building Amazing Things : https://www.youtube.com/watch?v=JM7P7mWgJbo&ab_channel=BuildingAmazingThings
+
+______________________________________________________________________________________________________________________________________________________________________
+
+24/07/2565
+
+# E-commerce App Design in figma - Wireframe/UI/UX Design Tutorial
+
+
+
+
